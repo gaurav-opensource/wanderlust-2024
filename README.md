@@ -120,7 +120,7 @@ We welcome contributions to help improve **Wanderlust 2024**! 🚀 Here’s how 
        ```
      - Or using `node app.js` to start the server manually:
        ```bash
-       node app.js
+       nodemon app.js
        ```
 
 9. **Environment Setup** 🔒
